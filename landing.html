@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dice Game - Welcome</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; background-color: #f8f9fa; }
+    body, html { height: 100%; font-family: Arial, sans-serif; }
+    .container { display: flex; height: 100vh; width: 100%; }
+    .left {
+      flex: 1;
+      background: url('images/dices.png') no-repeat center center;
+      background-size: contain;
+    }
+    .right {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .right h1 {
+      font-size: 4rem;
+      margin-bottom: 20px;
+      color: #111;
+    }
+    .right button {
+      padding: 12px 24px;
+      font-size: 18px;
+      background-color: #000;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    .right button:hover { background-color: #222; }
+    @media screen and (max-width: 768px) {
+      .container { flex-direction: column; }
+      .left, .right { flex: none; width: 100%; height: 50%; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="left"></div>
+    <div class="right">
+      <h1>Dice Game</h1>
+      <button onclick="window.location.href='login.html'">Play Now</button>
+    </div>
+  </div>
+</body>
+</html>
