@@ -9,7 +9,9 @@ Tools used: HTML, CSS, JavaScript, PHP, MySQL.
 # Images
 
 Landing Page
+
 <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/5d7db481-e359-4f1c-9e6d-38bad7a36c0c" />
 
 Sign Up Page
+
 <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/e5750710-b8fa-4b3f-869a-d37ba9731d64" />
