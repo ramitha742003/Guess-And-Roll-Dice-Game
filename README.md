@@ -6,3 +6,4 @@ If the score reaches 10 points within 1 minute, then you win the game, or you lo
 
 Tools used: HTML, CSS, JavaScript, PHP, MySQL.
 
+<img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/5d7db481-e359-4f1c-9e6d-38bad7a36c0c" />
