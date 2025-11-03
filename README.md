@@ -12,8 +12,18 @@ Landing Page
 
 <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/5d7db481-e359-4f1c-9e6d-38bad7a36c0c" />
 
-
-
 Sign Up Page
 
 <img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/e5750710-b8fa-4b3f-869a-d37ba9731d64" />
+
+Log In Page
+
+<img width="975" height="455" alt="image" src="https://github.com/user-attachments/assets/d9475d68-5d96-4084-9cc9-a1276407a80b" />
+
+Home Page
+
+<img width="975" height="477" alt="image" src="https://github.com/user-attachments/assets/5577d736-139f-427b-b73a-248f01a7f7a5" />
+
+
+
+
